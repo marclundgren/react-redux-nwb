@@ -1,0 +1,29 @@
+{
+  "name": "react-redux-nwb",
+  "version": "1.0.0",
+  "description": "Describe react-redux-nwb here",
+  "private": true,
+  "scripts": {
+    "build": "nwb build-react-app",
+    "clean": "nwb clean-app",
+    "start": "nwb serve-react-app",
+    "test": "nwb test",
+    "test:watch": "nwb test --server"
+  },
+  "dependencies": {
+    "babel-core": "^6.13.2",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "react-dom": "^15.3.0",
+    "react-redux": "^4.4.5",
+    "react": "^15.3.0",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {
+    "nwb": "0.11.x"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": ""
+}
