@@ -1,3 +1,3 @@
 # react-redux-nwb
 
-Describe react-redux-nwb here.
+A [todomvc](http://todomvc.com/todomvc) [react-redux](http://redux.js.org/) todo app using </a> [nwb](https://github.com/marclundgren/react-redux-nwb).
